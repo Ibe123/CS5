@@ -1,0 +1,17 @@
+h1{
+    color: purple;
+    font-size: 40px;
+    letter-spacing: 0.3 em;
+    word-spacing: 1px;
+    font-style: italic;
+}
+h2{
+    font-weight: bold;
+    text-decoration: underline;
+}
+p{
+    font-size: 18px;
+    line-height: 1.5em;
+    text-align: center;
+}
+body{background-color:red; }
